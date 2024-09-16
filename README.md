@@ -20,7 +20,7 @@ This is a web-based application that measures internet speed by loading images f
 │   └── style.css       # Custom CSS for styling
 │-- js/
 │   └── script.js       # JavaScript for the speed test functionality
-└── assets/             # Folder for images or other assets (optional)
+└── img/speedometer.png # Folder for images or other assets (optional)
 ```
 
 ## How It Works
